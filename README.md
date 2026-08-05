@@ -80,7 +80,9 @@ Projects currently in development.
 <p align="center">
   <img height="170" src="https://github-readme-stats-six-sooty-42.vercel.app/api?username=Hex69Hash&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats-six-sooty-42.vercel.app/api/top-langs/?username=Hex69Hash&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=Hex69Hash&style=flat-square&color=blue" />
 </p>
+
 
 ---
 
