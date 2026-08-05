@@ -65,13 +65,13 @@ Currently I'm focusing on:
 
 ## Featured Projects
 
-Coming soon...
+Projects currently in development.
 
-- 🌐 Portfolio Website
-- 📊 Data Analysis Projects
-- 📱 Flutter UI Showcase
-- 🗄 SQL Case Studies
-- 🤖 Python Automation
+- 🌐 Developer Portfolio
+- 📊 Data Analytics Dashboard
+- 📱 Flutter Expense Tracker
+- 🗄 SQL Analytics
+- 🤖 Python Automation Toolkit
 
 ---
 
