@@ -14,7 +14,9 @@ Building software that solves real problems.
 
 ## About Me
 
-I'm a BSc Information Technology student from India who enjoys building practical applications and exploring data to solve real-world problems.
+I'm an Information Technology student passionate about building software and extracting insights from data.
+
+I enjoy creating practical applications using Python, Flutter and React while continuously improving my skills in SQL, analytics and modern web development.
 
 Currently I'm focusing on:
 
