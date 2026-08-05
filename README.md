@@ -75,20 +75,6 @@ Projects currently in development.
 
 ---
 
-# GitHub Stats
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hex69Hash&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img width="48%" src="YOUR_VERCEL_URL/api?username=Hex69Hash&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-  <img width="48%" src="YOUR_VERCEL_URL/api/top-langs/?username=Hex69Hash&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
-
----
-
 ## Connect
 
 - 💼 LinkedIn: www.linkedin.com/in/muiz-muksit-nobi-63857b2a9
