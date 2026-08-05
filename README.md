@@ -1,11 +1,13 @@
-<h1 align="center">Hi, I'm Muiz 👋</h1>
+<h1 align="center">
+Hi 👋 I'm Muiz Muksit Nobi
+</h1>
 
 <p align="center">
-Building practical software and data-driven solutions.
+Data Analyst • Flutter Developer • Full-Stack Developer
 </p>
 
 <p align="center">
-📊 Data Analytics • 📱 Flutter • 🌐 Full-Stack Web Development
+Building software that solves real problems.
 </p>
 
 ---
