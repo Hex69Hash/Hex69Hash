@@ -77,7 +77,7 @@ Projects currently in development.
 
 ## Connect
 
-- 💼 LinkedIn: www.linkedin.com/in/muiz-muksit-nobi-63857b2a9
+- 💼 LinkedIn: www.linkedin.com/in/muiz-muksit-nobi-63857b2a
 - 📧 Email: muizrohman06@gmail.com
 
 ---
