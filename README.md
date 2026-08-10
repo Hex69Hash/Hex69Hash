@@ -14,7 +14,7 @@ Building software that solves real problems.
 
 ## About Me
 
-I'm an Information Technology student passionate about building software and extracting insights from data
+I'm an Information Technology student passionate about building software and extracting insights from data.
 
 I enjoy creating practical applications using Python, Flutter and React while continuously improving my skills in SQL, analytics and modern web development.
 
