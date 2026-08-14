@@ -3,7 +3,7 @@ Hi 👋 I'm Muiz Muksit Nobi
 </h1>
 
 <p align="center">
-Data Analyst • Flutter Developer • Full-Stack Developer
+Data Analyst • Flutter Developer
 </p>
 
 <p align="center">
@@ -16,9 +16,9 @@ Turning data into insights and ideas into practical software.
 
 I'm an Information Technology student focused on **Data Analytics and data-driven problem solving**.
 
-I enjoy working with Python and SQL to clean, analyze and understand data, while also building practical applications with Flutter and React.
+I enjoy working with Python and SQL to clean, analyze and understand data, while also building practical mobile applications with Flutter.
 
-I also have hands-on experience as a **Flutter App Development Intern**, where I worked on developing mobile applications and gained experience with real-world application development.
+I also have hands-on experience as a **Flutter App Development Intern**, where I built a To-Do application and gained practical experience in mobile application development.
 
 Currently, I'm focusing on:
 
@@ -27,7 +27,6 @@ Currently, I'm focusing on:
 - 🗄️ SQL
 - 📈 Power BI
 - 📱 Flutter App Development
-- ⚛️ React & Full-Stack Development
 
 ---
 
@@ -59,12 +58,10 @@ Areas I'm currently working on:
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
-### Development
+### Mobile Development
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 
 ### Tools
 
@@ -78,15 +75,17 @@ Areas I'm currently working on:
 
 ### 📱 Flutter App Development Intern
 
-Worked on mobile application development using **Flutter**, gaining practical experience in:
+During my Flutter App Development Internship, I built a **To-Do application** using Flutter.
 
-- Building Flutter application interfaces
-- Implementing application features
-- Working with real project requirements
-- Understanding application development workflows
-- Improving UI and user experience
+Through the project, I gained practical experience in:
 
-This experience gave me practical exposure to building and working on real-world mobile applications.
+- Building mobile application interfaces
+- Creating and managing To-Do tasks
+- Implementing application functionality
+- Working with Flutter and Dart
+- Understanding the development workflow of a mobile application
+
+The internship gave me hands-on experience in taking a mobile app idea and turning it into a working application.
 
 ---
 
@@ -98,7 +97,6 @@ This experience gave me practical exposure to building and working on real-world
 - 📈 Learning and building Power BI dashboards
 - 🔎 Improving exploratory data analysis skills
 - 📱 Continuing Flutter application development
-- 🌐 Strengthening full-stack development skills
 
 ---
 
@@ -134,7 +132,7 @@ My current goal is to build a strong foundation for a career in **Data Analytics
 
 **Python + SQL + Data Visualization + Power BI + Real-world Projects**
 
-Alongside analytics, I'm continuing to develop my software engineering skills through Flutter and full-stack development.
+Alongside analytics, I'm continuing to develop my mobile development skills through Flutter.
 
 ---
 
