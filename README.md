@@ -3,11 +3,11 @@ Hi 👋 I'm Muiz Muksit Nobi
 </h1>
 
 <p align="center">
-Data Analyst • Flutter Developer
+📊 Data Analyst | Python • SQL • Power BI
 </p>
 
 <p align="center">
-Turning data into insights and ideas into practical software.
+Turning data into insights and actionable decisions.
 </p>
 
 ---
